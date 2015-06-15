@@ -1,0 +1,32 @@
+Projekt
+
+Ogólnie:
+- dial - url, name, image, favicon
+- group - name, dial[]
+- container - collection[]
+
+Settings:
+- default group on start (mozliwe do ustawienia z poziomu widoku kolekcji)
+
+
+- browser action:
+    - create new box in collection (choose collection, get url from activeTab)
+    - settings
+
+- new tab:
+    - u gory - przelaczniki po kolekcjach, button dodaj kolekcje, obecna kolekcja jest wyraznie zaznaczona
+    - przelacznik do aplikacji (link) (n+1)
+    - lista ostatnio zamknietych stron (n+1)
+    - rozwijane (a moze stale po prawej u gory) menu:
+        - speed dial
+        - aplikacje
+        - opcje
+
+- dodawanie dial-a:
+    - url (autocomplete z historii przegladania, jak to zrobic?)
+    - nazwa (dynamiczna)
+    - grupa
+        - mozliwosc stworzenia nowej grupy (n+1)
+
+
+- responsywnosc
